@@ -16,4 +16,4 @@ Just an example. This is a simple web project, deployment can be on any web serv
 
 ## Contribution
 
-Made by me, myself and I.
+Made by me, myself and I. Adding some text.
